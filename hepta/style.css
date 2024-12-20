@@ -889,7 +889,9 @@ width: 20%;
         line-height: 1.5rem;
         margin: 15px 0px;
     }
-
+.img-lower-txt p{
+        font-size: 10px;
+    }
 
 
     .feedback-heading{
