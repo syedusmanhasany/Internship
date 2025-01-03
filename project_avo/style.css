@@ -1025,8 +1025,9 @@ line-height: 2.5rem;
 
 @media (max-width: 450px){
   /* hero section */
-  .flex-content {
-    top: 10%;
+ .flex-content {
+    width: 80%;
+    top: 20%;
     margin: 30px;
   }
   
@@ -1049,7 +1050,10 @@ line-height: 2.5rem;
   }
 
 /* flex ends */
-
+.menu-toggle {
+        padding: 10px 15px;
+        font-size: 14px;
+      }
 
 /* reviews section */
   .testimonial-slide {
