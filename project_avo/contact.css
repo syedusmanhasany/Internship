@@ -403,7 +403,10 @@ gap: 10px;
       /* flex ends */
 
 
-
+.menu-toggle {
+        padding: 10px 15px;
+        font-size: 14px;
+      }
 
 
 
